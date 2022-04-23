@@ -14,7 +14,6 @@ header {
     text-align: center;
 }
 
-
 li {
     display: inline;
     float: left;
@@ -59,8 +58,4 @@ li a {
 .imgarticle:hover {
     transform: translateX(300px);
     transition: all 3s ease-in-out;
-}
-
-article {
-    text-align: center;
 }
