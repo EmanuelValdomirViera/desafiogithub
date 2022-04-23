@@ -14,9 +14,7 @@ header {
     text-align: center;
 }
 
-nav {
 
-}
 
 li {
     display: inline;
@@ -64,9 +62,6 @@ li a {
     transition: all 3s ease-in-out;
 }
 
-section {
-
-}
 
 article {
     text-align: center;
